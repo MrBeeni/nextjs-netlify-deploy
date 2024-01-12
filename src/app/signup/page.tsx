@@ -41,8 +41,7 @@ const Page = () => {
           />
         </div>
         <div className="text-center text-sm pb-4">
-          <h1>Your password is 8-20 characters,</h1>
-          <h1>includes one letter and one number</h1>
+          Your password is 8-20 characters, includes one letter and one number
         </div>
         <div className="pb-4">
           <input
